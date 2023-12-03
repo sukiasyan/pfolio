@@ -80,14 +80,17 @@ export const Socials = [
   {
     name: "Instagram",
     src: "/instagram.svg",
+    link: "https://github.com/sukiasyan",
   },
   {
     name: "Facebook",
     src: "/facebook.svg",
+    link: "https://www.facebook.com/yaks10",
   },
   {
-    name: "Instagram",
+    name: "Github",
     src: "/github-white.svg",
+    link: "https://github.com/sukiasyan",
   },
 ];
 export const Projects = [
