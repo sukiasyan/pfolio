@@ -135,6 +135,6 @@ export const NavLinks = [
   {
     name: "/contact-me",
     icon: RxClipboard,
-    link: "/contact-me",
+    link: "/contact",
   },
 ];
